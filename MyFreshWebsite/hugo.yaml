@@ -27,7 +27,7 @@ params:
   #   responsiveImages: false
   #   linkFullImages: true
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
