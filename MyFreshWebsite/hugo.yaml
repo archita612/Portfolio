@@ -57,19 +57,19 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hi, my name is Archita  \U0001F44B
+    title: "Hi, my name is Archita Ray \U0001F44B"
     subtitle: "Welcome to my website!"
     imageUrl: "https://github.com/archita612/Portfolio/blob/main/MyFreshWebsite/assets/images/Airbnb.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: /posts/
-      - name: Tags
+      - name: Experience
+        url: /exp/
+      - name: Skills
         url: /tags/
-      - name: Resume
-        url: resume.pdf
+      - name: Endoresements
+        url: /end/
 
   # home-info mode
   homeInfoParams:
