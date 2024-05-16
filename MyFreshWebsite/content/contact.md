@@ -1,6 +1,6 @@
 ---
 author: ["Archita Ray"]
-title: Contact Me
+title: Contact Details
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 description: ""
