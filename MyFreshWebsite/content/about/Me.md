@@ -9,7 +9,7 @@ categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 cover:
   image: images/Airbnb.jpg
-weight: 3
+weight: 1
 ShowToc: False
 TocOpen: False
 ---
