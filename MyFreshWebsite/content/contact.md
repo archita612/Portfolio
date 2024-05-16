@@ -7,7 +7,7 @@ description: ""
 summary: ""
 tags: []
 cover:
-  image: assests/images/Airbnb.jpg
+  image: assets/images/Airbnb.jpg
 ShowToc: False
 TocOpen: False
 ---
