@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/test/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/posts/test/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/categories/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/code/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/tags/code/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/test2/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/posts/test2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/gist/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/markdown/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/tags/markdown/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/posts/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/python/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/tags/python/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/syntax/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/tags/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/syntax/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/categories/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/themes/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/categories/themes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://portfolio-archita-rays-projects.vercel.app/archives/</loc>
   </url>
 </urlset>

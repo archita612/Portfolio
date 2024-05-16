@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ExampleSite</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://portfolio-archita-rays-projects.vercel.app/tags/</link>
     <description>Recent content in Tags on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://portfolio-archita-rays-projects.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://portfolio-archita-rays-projects.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://portfolio-archita-rays-projects.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
-      <link>https://examplesite.com/tags/code/</link>
+      <link>https://portfolio-archita-rays-projects.vercel.app/tags/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/code/</guid>
+      <guid>https://portfolio-archita-rays-projects.vercel.app/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Gist</title>
-      <link>https://examplesite.com/tags/gist/</link>
+      <link>https://portfolio-archita-rays-projects.vercel.app/tags/gist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/gist/</guid>
+      <guid>https://portfolio-archita-rays-projects.vercel.app/tags/gist/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://examplesite.com/tags/markdown/</link>
+      <link>https://portfolio-archita-rays-projects.vercel.app/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/markdown/</guid>
+      <guid>https://portfolio-archita-rays-projects.vercel.app/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://examplesite.com/tags/python/</link>
+      <link>https://portfolio-archita-rays-projects.vercel.app/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/python/</guid>
+      <guid>https://portfolio-archita-rays-projects.vercel.app/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://examplesite.com/tags/syntax/</link>
+      <link>https://portfolio-archita-rays-projects.vercel.app/tags/syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/syntax/</guid>
+      <guid>https://portfolio-archita-rays-projects.vercel.app/tags/syntax/</guid>
       <description></description>
     </item>
   </channel>

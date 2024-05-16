@@ -2,7 +2,7 @@
 author: ["Archita Ray"]
 title: "AirBNB"
 date: "2019-03-10"
-description: "Sample article showcasing basic code syntax and formatting for HTML elements."
+description: "Sample article showcasing Airbnb."
 summary: "Sample article showcasing basic code syntax and formatting for HTML elements."
 tags: ["markdown", "syntax", "code", "gist"]
 categories: ["themes", "syntax"]
