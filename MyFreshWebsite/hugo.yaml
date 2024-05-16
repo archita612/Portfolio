@@ -124,7 +124,7 @@ menu:
       weight: 30
     - identifier: Skills
       name: Skills
-      url: /tags/
+      url: /skills/
       weight: 40
     - identifier: Resume
       name: Resume

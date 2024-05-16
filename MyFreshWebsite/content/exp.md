@@ -13,9 +13,6 @@ TocOpen: False
 
 ### **Kearney** _(Purdue Student Labs)_ 
 
-
-<p style="text-align: left;"><em><strong>Analytics Consultant</strong></em><span style="float: right;">Jan 2024 - Apr 2024</span></p>
-
 <p style="text-align:right">
  <span style="float:left"><em><strong>Analytics Consultant</strong></em></span>
  Jan 2024 - Apr 2024

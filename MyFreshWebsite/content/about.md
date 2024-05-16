@@ -11,7 +11,7 @@ TocOpen: False
 ---
 
 
-Hello there! I am a masters student at **Purdue University** pursuing **MS** in **Business Analytics & Information Management** (MSBAIM), currently based out of West Lafayette, Indiana,US.
+Hello there! I am a masters student at **Purdue University** pursuing **MS** in **Business Analytics & Information Management** (MSBAIM), currently based out of West Lafayette, Indiana, US.
 
 &nbsp; With over 3.5 years delving into analytics, particularly in e-commerce and supply chain, I've thoroughly enjoyed tackling challenges at Kearney, Flipkart, and IBM. From delving deep into SQL and Python to crafting insightful Tableau and Data Studio dashboards, I've discovered my knack for optimizing operations and making data-driven decisions. But what truly sets me apart is my passion for continuous learning—I'm a self-starter always hungry for new skills and knowledge. When I'm not immersed in data or leading teams, you'll find me buried in a good book, exploring new cuisines, learning languages, or staying active at the gym. &nbsp;
 
