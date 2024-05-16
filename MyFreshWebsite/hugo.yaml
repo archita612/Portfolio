@@ -66,10 +66,9 @@ params:
     buttons:
       - name: Experience
         url: /exp/
-      - name: Skills
-        url: /tags/
-      - name: Endoresements
-        url: /end/
+      - name: Contact Me
+        url: /contact/
+      
 
   # home-info mode
   homeInfoParams:
