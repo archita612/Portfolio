@@ -75,8 +75,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
+    - name: email
+      url: "archita.fall23@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/archita-ray-06dec97/"
     - name: github
