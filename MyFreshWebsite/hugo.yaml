@@ -1,5 +1,5 @@
 baseURL: "https://archita.vercel.app/"
-title: ExampleSite
+title: Archita Ray
 paginate: 5
 theme: PaperMod
 
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Archita Ray
+  description: "Portfolio description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -59,13 +59,11 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi, my name is Archita Ray \U0001F44B"
     subtitle: "Welcome to my website!"
-    imageUrl: "https://github.com/archita612/Portfolio/blob/main/MyFreshWebsite/assets/images/Airbnb.jpg"
+    imageUrl: "https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/Airbnb.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Experience
-        url: /exp/
       - name: Contact Me
         url: /contact/
       
@@ -100,7 +98,7 @@ params:
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
