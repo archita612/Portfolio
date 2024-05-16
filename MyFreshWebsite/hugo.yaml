@@ -73,9 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B
-    My name is Archita !"
-    Content: Welcome to my blog
+    Title: "Hi, my name is Archita  \U0001F44B!"
+    Content: Have a look around
 
   socialIcons:
     - name: email
@@ -120,14 +119,22 @@ menu:
       name: About me
       url: /about/
       weight: 10
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 20
     - identifier: Experience
       name: Experience
-      url: /tags/
-      weight: 20
+      url: /exp/
+      weight: 30
+    - identifier: Skills
+      name: Skills
+      url: /skills/
+      weight: 40
     - identifier: Resume
       name: Resume
       url: https://github.com/archita612/archita612/blob/main/Archita_Ray.pdf
-      weight: 30
+      weight: 50
       
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
