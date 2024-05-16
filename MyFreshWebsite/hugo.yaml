@@ -57,7 +57,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
+    title: Archita Ray
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
