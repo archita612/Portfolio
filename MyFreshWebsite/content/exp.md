@@ -1,7 +1,7 @@
 ---
 author: []
-title: Archita Ray
-description: "Data Analytics & Science Enthusiast"
+title: My Work Experience
+description: ""
 summary: ""
 tags: []
 categories: ["themes", "syntax"]
@@ -11,21 +11,34 @@ TocOpen: False
 ---
 
 
-Hello there! I am a masters student at **Purdue University** pursuing **MS** in **Business Analytics & Information Management** (MSBAIM), currently based out of West Lafayette, Indiana,US.
+### **Kearney** _(Purdue Student Labs)_
+<p style="text-align: left;"><em><strong>Analytics Consultant</strong></em><span style="float: right;">Jan 2024 - Apr 2024</span></p>
 
-&nbsp; &nbsp; With over 3.5 years delving into analytics, particularly in e-commerce and supply chain, I've thoroughly enjoyed tackling challenges at Kearney, Flipkart, and IBM. From delving deep into SQL and Python to crafting insightful Tableau and Data Studio dashboards, I've discovered my knack for optimizing operations and making data-driven decisions. But what truly sets me apart is my passion for continuous learning—I'm a self-starter always hungry for new skills and knowledge. When I'm not immersed in data or leading teams, you'll find me buried in a good book, exploring new cuisines, learning languages, or staying active at the gym. &nbsp;
-
-&nbsp; &nbsp; As I gear up for graduation in **August 2024**, I'm excited to bring my well-rounded background and technical skills to the table, ready to take on whatever data adventures come my way!
-
-
-
-## Education
-
-| School  | Degree | Year |
-| ----- | --- |--- |
-| Purdue University Daniels School of Business |MS in Business Analytics & Information Management| Aug'23-Aug'24  |
-| SRM University | B.Tech in Electronics & Communication Engineering| Jul'15-May'19  |
+> - Spearheaded a comprehensive analysis integrating qualitative and quantitative methodologies,resulting in a 4% improvement in retention at CPG warehouses.
+> - Conducted surveys and performed conjoint analysis to pinpoint employee preferences, driving strategic decision-making.
+> - Executed regression analysis to identify key factors influencing prolonged tenures, informing targeted retention strategies.
+> - Implemented sentiment analysis on job site reviews, enhancing insights into employee values and benefits, facilitating data-driven retention initiatives.
 
 
-## Relevant Coursework
-`Advanced Business Analytics` `Management of Organizational Data (SQL)` `Data Mining (Regression, Classification, Clustering)` `Machine Learning` `Supply Chain Analytics` `Web Data Analytics` `Pricing Strategy`, `Spreadsheet Optimization` `Storytelling with Data` `Project Management` `Consumer Behavior & Marketing` `Cloud Computing (AWS)`
+### **Flipkart**
+<p style="text-align: left;"><em><strong>Data Analyst</strong></em><span style="float: right;">March 2021 – March 2023</span></p>
+
+> - Orchestrated the automation of pendency and losses report generation using R and SQL, ensuring real-time insights with 100% data accuracy, averting potential monthly losses of $80,000.
+> - Engineered a robust monitoring system for 40+ live reports in Excel, Data Studio, and Tableau, optimizing supplier return quality by 41.2% and elevating re-inventorization rates to 96.4%, resulting in substantial nationwide cost savings.
+> - Introduced cutting-edge metrics to enhance operational visibility by 97%, collaborating with leadership to swiftly identify and rectify operational bottlenecks, significantly boosting warehouse efficiency.
+> - Leveraged internal data analysis via Google Forms and Data Studio to dissect employee workflows and warehouse lead times, leading to a monthly $6,000 reduction in operational costs across multiple warehouses.
+> - Led monthly SQL and Tableau workshops, empowering warehouse staff and business stakeholders to harness real-time production monitoring capabilities, culminating in a remarkable 17% enhancement in warehouse productivity.
+
+### **IBM**
+<p style="text-align: left;"><em><strong>Associate Systems Engineer</strong></em><span style="float: right;">January 2020 – December 2020</span></p>  
+
+> - Performed ETL jobs and debugged loads on Oracle Data Integration to ensure seamless data transfer with 97% accuracy from Siebel DB to Oracle data warehouse while maintaining data quality and transformation integrity.
+> - Optimized existing client reports through OBIEE, incorporating data modeling techniques for timely updates.
+> - Managed bi-weekly meetings with a key Energy client to drive consistent data infrastructure at different stages of the project lifecycle (Develop/UAT/Prod).
+
+
+### **Mu Sigma**
+<p style="text-align: left;"><em><strong>Trainee Decision Scientist</strong></em><span style="float: right;">September 2019 – December 2019</span></p>  
+
+> - Delivered demand forecasting on mock data and performed analyses, including univariate time series analysis.
+> - Conducted sentiment analysis on tweets to gauge customer reactions to a client company's new product launch.
