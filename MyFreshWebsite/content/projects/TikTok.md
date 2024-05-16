@@ -1,10 +1,10 @@
 ---
 author: ["Archita Ray"]
-title: "Airbnb Property Success Modeling in Houston"
+title: "TikTok Video Classification"
 date: "2023-10-10"
-description: "Determining Superhost status by predicting earning potential of Houston Airbnb properties"
-summary: "Predicting Success of Airbnb Properties in Houston using controllable & uncontrollable features"
-tags: ["Python", "Feature Engineering", "Machine Learning", "Model Evaluation", "Excel", "Statistical Modelling", "Data Cleaning"]
+description: "Implemented an ML model to classify TikTok videos, aiding in content moderation and enhancing user trust"
+summary: "Developed ML model for precise TikTok video categorization, ensuring effective content moderation and user trust with strong recall and ROC metrics"
+tags: ["Python", "Feature Engineering", "Machine Learning", "Model Evaluation", "Hyperparameter Tuning", "Statistical Modelling", "Natural Language Processing (NLP),"Scikit-learn","Data Preprocessing","NumPy","Pandas","Sentiment Analysis"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 cover:
@@ -16,9 +16,8 @@ TocOpen: False
 
 ### The Project
 
-This project predicts the Superhost status of Airbnb properties by analyzing earning potential and success through occupancy rates and overall ratings. Using a dataset from Houston Airbnb listings, various modeling techniques, including Linear Regression, Polynomial Regression, Random Forest, Gradient Boosting, Lasso Regression, and Ensemble models, were employed. Data cleaning involved clustering techniques to handle missing values. Models were evaluated based on R-squared and RMSE scores, revealing that overall guest ratings and occupancy rates significantly influence earning potential. The optimal model offers actionable insights for property owners to enhance revenue and achieve Superhost status.
+Executed a comprehensive binary classification project focusing on TikTok videos, distinguishing between "claims" and "opinions," alongside sentiment analysis for textual content. Conducted thorough Exploratory Data Analysis (EDA) to understand data distributions and feature correlations. The project's primary objective was to enhance content moderation and user trust by accurately classifying videos. Employing Gradient Boosting and Random Forest algorithms yielded exceptional results, boasting a 98% accuracy rate and 97% recall (sensitivity). Additionally, the Receiver Operating Characteristic (ROC) analysis underscored the model's robustness. The outcome highlights a significant improvement in content classification accuracy and sentiment understanding, crucial for enhancing platform integrity and user experience.
 
 
 Here's more details on it:
-- [Github Link](https://github.com/archita612/AirBnB_Superhost)
-- [PPT](https://github.com/archita612/AirBnB_Superhost/blob/main/AirBnB_Houston.pptx)
+- [Github Link](https://github.com/archita612/TikTok_Classification)
