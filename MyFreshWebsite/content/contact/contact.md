@@ -1,15 +1,23 @@
 ---
 author: ["Archita Ray"]
+title: Contact Me
+categories: ["themes", "syntax"]
+series: ["Themes Guide"]
+description: ""
+summary: ""
+tags: []
 cover:
   image: assests/images/Airbnb.jpg
+ShowToc: False
+TocOpen: False
 ---
 I'm on the lookout for exciting roles in analytics and data science in the US. 
 Feel free to reach out for opportunities and collaboration!
 
 ### Let's talk
 
-📧  **Email:** archita.fall23@gmail.com 
+📧 &nbsp; **Email:** archita.fall23@gmail.com &nbsp;
 
-📧 **School Email:** ray191@purdue.edu 
+📧 &nbsp; **School Email:** ray191@purdue.edu &nbsp;
 
-📞**Phone Number:** +1 (765)-543-6931
+📞 &nbsp; **Phone Number:** +1 (765)-543-6931 &nbsp;
