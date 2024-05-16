@@ -2,11 +2,10 @@
 author: []
 title: Archita Ray
 description: "Nice to meet you, I am Data Analytics & Science Enthusiast"
-categories: ["themes", "syntax"]
-series: ["Themes Guide"]
-#description: ""
 summary: ""
 tags: []
+categories: ["themes", "syntax"]
+series: ["Themes Guide"]
 ShowToc: False
 TocOpen: False
 ---
