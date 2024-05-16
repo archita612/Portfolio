@@ -1,18 +1,18 @@
 ---
 author: []
 title: Archita Ray
-description: "Nice to meet you, I am Data Analytics & Science Enthusiast"
+summary: "Nice to meet you, I am Data Analytics & Science Enthusiast"
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 description: ""
-summary: ""
+#summary: ""
 tags: []
 ShowToc: False
 TocOpen: False
 ---
 
 
-Hello there! I am a masters student at Purdue University pursuing MS in Business Analytics & Information Management _(MSBAIM)_, currently based out of West Lafayette, Indiana,US.
+Hello there! I am a masters student at **Purdue University** pursuing **MS** in **Business Analytics & Information Management** (MSBAIM), currently based out of West Lafayette, Indiana,US.
 
 &nbsp; &nbsp; With over 3.5 years delving into analytics, particularly in e-commerce and supply chain, I've thoroughly enjoyed tackling challenges at Kearney, Flipkart, and IBM. From delving deep into SQL and Python to crafting insightful Tableau and Data Studio dashboards, I've discovered my knack for optimizing operations and making data-driven decisions. But what truly sets me apart is my passion for continuous learning—I'm a self-starter always hungry for new skills and knowledge. When I'm not immersed in data or leading teams, you'll find me buried in a good book, exploring new cuisines, learning languages, or staying active at the gym. &nbsp;
 
@@ -24,8 +24,8 @@ Hello there! I am a masters student at Purdue University pursuing MS in Business
 
 | School  | Degree | Year |
 | ----- | --- |--- |
-| Purdue University Daniels School of Business |MS in Business Analytics & Information Management| Aug 2023-Aug 2024  |
-| SRM University | B.Tech in Electronics & Communication Engineering| Jul 2015-May 2019  |
+| Purdue University Daniels School of Business |MS in Business Analytics & Information Management| Aug'23-Aug'24  |
+| SRM University | B.Tech in Electronics & Communication Engineering| Jul'15-May'19  |
 
 
 ## Relevant Coursework
