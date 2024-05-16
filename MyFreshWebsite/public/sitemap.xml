@@ -2,39 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://examplesite.com/posts/test/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
+    <loc>https://examplesite.com/categories/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://examplesite.com/tags/code/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://examplesite.com/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gist/</loc>
+    <loc>https://examplesite.com/posts/test2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://examplesite.com/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://examplesite.com/tags/markdown/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/syntax/</loc>
+    <loc>https://examplesite.com/posts/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>https://examplesite.com/tags/python/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://examplesite.com/tags/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>https://examplesite.com/categories/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/categories/themes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/archives/</loc>
   </url>
 </urlset>
