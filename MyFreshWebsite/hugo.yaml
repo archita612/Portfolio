@@ -63,8 +63,8 @@ params:
     title: "Hi, my name is Archita Ray \U0001F44B"
     subtitle: "Welcome to my website!"
     imageUrl: "https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/ProfilePic.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: my image
     buttons:
       - name: Contact Me
