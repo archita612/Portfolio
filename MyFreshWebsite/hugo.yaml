@@ -76,7 +76,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "archita.fall23@gmail.com"
+      url: "mailto:archita.fall23@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/archita-ray-06dec97/"
     - name: github
