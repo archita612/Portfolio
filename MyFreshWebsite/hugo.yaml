@@ -65,7 +65,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Contact Me
-        url: /contact.md/
+        url: /contact/
       
 
   # home-info mode
