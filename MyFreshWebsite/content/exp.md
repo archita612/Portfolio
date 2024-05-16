@@ -14,6 +14,11 @@ TocOpen: False
 ### **Kearney** _(Purdue Student Labs)_
 <p style="text-align: left;"><em><strong>Analytics Consultant</strong></em><span style="float: right;">Jan 2024 - Apr 2024</span></p>
 
+<p style="text-align:right">
+ <span style="float:left"><em><strong>Analytics Consultant</strong></em></span>
+ Jan 2024 - Apr 2024
+</p>
+
 > - Spearheaded a comprehensive analysis integrating qualitative and quantitative methodologies,resulting in a 4% improvement in retention at CPG warehouses.
 > - Conducted surveys and performed conjoint analysis to pinpoint employee preferences, driving strategic decision-making.
 > - Executed regression analysis to identify key factors influencing prolonged tenures, informing targeted retention strategies.
