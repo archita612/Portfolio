@@ -4,7 +4,7 @@ title: "Airbnb Property Success Modeling in Houston"
 date: "2023-10-10"
 description: "Determining Superhost status by predicting earning potential of Houston Airbnb properties"
 summary: "Predicting Success of Airbnb Properties in Houston using controllable & uncontrollable features"
-tags: ["Python", "Feature Engineering", "Machine Learning", "Model Evaluation", "Excel", "Statistical Modelling", "Data Preprocessing", ,"NumPy","Pandas","NLP"]
+tags: ["Python", "Feature Engineering", "Machine Learning", "Model Evaluation", "Excel", "Statistical Modelling", "Data Preprocessing", "NumPy","Pandas","NLP"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
 cover:
