@@ -1,6 +1,6 @@
 ---
 author: ["Archita Ray"]
-title: "Airbnb Property Success Modeling in Houston"
+title: "Impact of Big Data on Creative Decisions at GAP"
 date: "2023-08-12"
 description: "Analyzing GAP Inc.'s strategic shift to a data-driven creative process, evaluating its impact on brand identity and market positioning"
 summary: "Utilized web scraping techniques to gather data from GAP, Banana Republic, and Old Navy websites, leveraging customer reviews and financial reports to quantify the effectiveness of a data-driven approach versus a creative direction in brand strategy"

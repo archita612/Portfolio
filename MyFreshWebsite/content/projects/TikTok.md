@@ -1,7 +1,7 @@
 ---
 author: ["Archita Ray"]
 title: "TikTok Video Classification"
-date: "2023-10-10"
+date: "2024-05-10"
 description: "Implemented an ML model to classify TikTok videos, aiding in content moderation and enhancing user trust"
 summary: "Developed ML model for precise TikTok video categorization, ensuring effective content moderation and user trust with strong recall and ROC metrics"
 tags: ["Python", "Feature Engineering", "Machine Learning", "Model Evaluation", "Hyperparameter Tuning", "Statistical Modelling", "Natural Language Processing (NLP)","Scikit-learn","Data Preprocessing","NumPy","Pandas","Sentiment Analysis"]

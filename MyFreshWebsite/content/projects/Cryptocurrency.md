@@ -1,7 +1,7 @@
 ---
 author: ["Archita Ray"]
 title: "Bitcoin Stock Price Prediction"
-date: "2023-03-20"
+date: "2024-03-20"
 description: "Implemented predictive models for stock price forecasting to support informed decision-making in cryptocurrency investments and trading"
 summary: "Utilized LSTM and ARIMA models to predict Bitcoin prices, enhancing financial decision-making in the volatile cryptocurrency market through accurate forecasting"
 tags: ["Python", "Feature Engineering", "Machine Learning", "Statistical Analysis", "Excel", "Statistical Modelling", "Data Preprocessing","NumPy","Pandas","Scikit-learn","LSTM (Long Short-Term Memory)","ARIMA (Autoregressive Integrated Moving Average)","Predictive Modeling","Financial Forecasting"]
