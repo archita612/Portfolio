@@ -57,9 +57,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Archita Ray
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: Hi, my name is Archita  \U0001F44B
+    subtitle: "Welcome to my website!"
+    imageUrl: "https://github.com/archita612/Portfolio/blob/main/MyFreshWebsite/assets/images/Airbnb.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
