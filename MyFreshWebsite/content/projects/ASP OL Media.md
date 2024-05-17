@@ -7,7 +7,7 @@ summary: "Implemented MySQL database optimization techniques including data clea
 tags: [ "Database Management", "SQL", "Data Cleaning", "Normalization", "Entity-Relationship Diagram (ERD)", "Relational Schema", "Data Analysis", "Campaign Optimization"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
-weight: 5
+weight: 6
 ShowToc: False
 TocOpen: False
 ---

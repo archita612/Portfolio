@@ -7,7 +7,7 @@ summary: "Employed conjoint analysis for Spotify's pricing strategy optimization
 tags: ["Pricing Analysis"," Market Dynamics", "Conjoint Analysis", "Data Analysis", "Strategic Recommendations"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
-weight: 6
+weight: 7
 ShowToc: False
 TocOpen: False
 ---
