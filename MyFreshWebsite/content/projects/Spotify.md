@@ -1,7 +1,7 @@
 ---
 author: ["Archita Ray"]
 title: "Spotify Pricing Optimisation"
-date: "2023-10-10"
+date: "2024-02-10"
 description: "Analyzing Spotify's pricing strategies and market dynamics to optimize its market dominance in the competitive music streaming industry"
 summary: "Employed conjoint analysis for Spotify's pricing strategy optimization"
 tags: ["Pricing Analysis"," Market Dynamics", "Conjoint Analysis", "Data Analysis", "Strategic Recommendations"]
