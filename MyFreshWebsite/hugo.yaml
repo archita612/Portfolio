@@ -60,8 +60,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Hi, my name is Archita Ray \U0001F44B"
-    subtitle: "Welcome to my website!"
+    title: "Hi\U0001F44B, my name is Archita Ray "
+    subtitle: "Welcome to my portfolio!"
     imageUrl: "https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/ProfilePic.jpg"
     imageWidth: 200
     imageHeight: 200
