@@ -7,8 +7,6 @@ summary: "Utilized LSTM and ARIMA models to predict Bitcoin prices, enhancing fi
 tags: ["Python", "Feature Engineering", "Machine Learning", "Statistical Analysis", "Excel", "Statistical Modelling", "Data Preprocessing","NumPy","Pandas","Scikit-learn","LSTM (Long Short-Term Memory)","ARIMA (Autoregressive Integrated Moving Average)","Predictive Modeling","Financial Forecasting"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
-cover:
-  image: images/Airbnb.jpg
 weight: 2
 ShowToc: False
 TocOpen: False

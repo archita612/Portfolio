@@ -7,8 +7,6 @@ summary: "Predicting Success of Airbnb Properties in Houston using controllable 
 tags: ["Python", "Feature Engineering", "Machine Learning", "Model Evaluation", "Excel", "Statistical Modelling", "Data Preprocessing", "NumPy","Pandas","NLP"]
 categories: ["themes", "syntax"]
 series: ["Themes Guide"]
-cover:
-  image: https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/Airbnb.jpg
 weight: 3
 ShowToc: False
 TocOpen: False
