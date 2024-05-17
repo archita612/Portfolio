@@ -14,6 +14,9 @@ TocOpen: False
 
 ### The Project
 
+![Crypto](https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/Crypto.jpg)
+
+
 This project focuses on predicting Bitcoin stock prices, serving as a valuable tool for investors, traders, and financial institutions involved in cryptocurrency markets. By employing advanced machine learning techniques such as Long Short-Term Memory (LSTM) networks and Autoregressive Integrated Moving Average (ARIMA) models, the project aims to provide accurate forecasts of Bitcoin prices. These forecasts can aid stakeholders in making informed decisions regarding trading strategies, portfolio management, risk mitigation, and investment allocation in the volatile and rapidly evolving cryptocurrency market. Ultimately, the project seeks to enhance financial decision-making processes and optimize returns for individuals and organizations engaged in Bitcoin trading and investment activities.
 
 

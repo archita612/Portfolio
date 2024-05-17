@@ -16,6 +16,8 @@ TocOpen: False
 
 ### The Project
 
+![TikTok](https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/Tiktok.jpeg)
+
 Executed a comprehensive binary classification project focusing on TikTok videos, distinguishing between "claims" and "opinions," alongside sentiment analysis for textual content. Conducted thorough Exploratory Data Analysis (EDA) to understand data distributions and feature correlations. The project's primary objective was to enhance content moderation and user trust by accurately classifying videos. Employing Gradient Boosting and Random Forest algorithms yielded exceptional results, boasting a 98% accuracy rate and 97% recall (sensitivity). Additionally, the Receiver Operating Characteristic (ROC) analysis underscored the model's robustness. The outcome highlights a significant improvement in content classification accuracy and sentiment understanding, crucial for enhancing platform integrity and user experience.
 
 
