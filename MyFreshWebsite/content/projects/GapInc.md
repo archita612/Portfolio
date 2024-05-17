@@ -16,7 +16,7 @@ TocOpen: False
 
 ### The Project
 
-![Gap](https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/Gap.jpg)
+![Gap](https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/Gap.jpeg)
 
 
 This project delves into GAP Inc.'s strategic evolution towards a data-driven creative paradigm, exploring its implications on brand vitality and market viability. Leveraging a diverse array of technical methodologies, including web scraping facilitated by Beautiful Soup and API integration, the endeavor amassed a comprehensive dataset from GAP, Banana Republic, and Old Navy websites. These data streams encompassed customer sentiment analysis, financial performance metrics, and industry benchmarks, facilitating a nuanced evaluation of the efficacy of data-centric strategies relative to conventional creative directives. Within this analytical framework, emphasis was placed on the technical intricacies of data extraction, transformation, and analysis, elucidating the intricate synergy between algorithmic insights and traditional design ethos in sculpting brand identity and consumer resonance within the ever-evolving retail domain.
