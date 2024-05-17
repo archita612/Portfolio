@@ -27,5 +27,5 @@ Hello there! I am a masters student at **Purdue University** pursuing **MS** in 
 | SRM University | B.Tech in Electronics & Communication Engineering| Jul'15-May'19  |
 
 
-## Relevant Coursework
+## Key Coursework
 `Advanced Business Analytics` `Management of Organizational Data (SQL)` `Data Mining (Regression, Classification, Clustering)` `Machine Learning` `Supply Chain Analytics` `Web Data Analytics` `Pricing Strategy`, `Spreadsheet Optimization` `Storytelling with Data` `Project Management` `Consumer Behavior & Marketing` `Cloud Computing (AWS)`
