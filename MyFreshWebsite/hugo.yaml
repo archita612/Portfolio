@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi, my name is Archita  \U0001F44B"
+    Title: "Hi \U0001F44B, my name is Archita"
     Content: Welcome to my Portfolio!
 
   socialIcons:
