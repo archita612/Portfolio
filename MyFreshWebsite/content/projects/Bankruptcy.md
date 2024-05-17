@@ -1,6 +1,6 @@
 ---
 author: ["Archita Ray"]
-title: "Bankruptcy Prediction - Kaggle Competion"
+title: "Bankruptcy Prediction"
 date: "2023-11-23"
 description: "Predicting bankruptcy using SAS Enterprise Miner to optimize financial risk assessment"
 summary: "Implemented Neural Network and Gradient Boosting models in SAS Enterprise Miner for bankruptcy prediction, utilizing preprocessing techniques and model comparisons"
