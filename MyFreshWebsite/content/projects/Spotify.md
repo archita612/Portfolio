@@ -1,6 +1,6 @@
 ---
 author: ["Archita Ray"]
-title: "Airbnb Property Success Modeling in Houston"
+title: "Spotify Pricing Optimisation"
 date: "2023-10-10"
 description: "Analyzing Spotify's pricing strategies and market dynamics to optimize its market dominance in the competitive music streaming industry"
 summary: "Employed conjoint analysis for Spotify's pricing strategy optimization"
