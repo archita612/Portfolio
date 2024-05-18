@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi\U0001F44B, my name is Archita Ray "
     subtitle: "Welcome to my portfolio!"
-    imageUrl: "https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/profile1.jpg"
+    imageUrl: "https://raw.githubusercontent.com/archita612/Portfolio/main/MyFreshWebsite/assets/images/profile2.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
